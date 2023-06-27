@@ -3,7 +3,6 @@
 Project aims to create Language Cards project
 ## Project Skeleton
 ```
- find-the-number-game(folder)
 |----public
         |----index.html
 |----src        

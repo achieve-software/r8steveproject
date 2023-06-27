@@ -1,6 +1,6 @@
 # Language Cards
 ## Description
-Project aims to create Horoscope project
+Project aims to create Language Cards project
 ## Project Skeleton
 ```
  find-the-number-game(folder)

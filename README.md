@@ -1,3 +1,39 @@
+# Language Cards
+## Description
+Project aims to create Language Cards project
+## Project Skeleton
+```
+|----public
+        |----index.html
+|----src        
+        |----components
+                 |----header
+                          |----Header.jsx
+                          |----Header.css
+                 |----footer
+                          |----Footer.css
+                          |----Footer.jsx
+                 |----main
+                          |----Main.jsx
+                          |----Main.css
+                 |----nav
+                          |----Nav.jsx
+                          |----Nav.css
+       |----data.js 
+       |----App.js
+       |----App.css
+       |----index.css
+       |----index.js
+|----readme.md  
+
+```
+## Project-gif
+![JavaScript-project](https://raw.githubusercontent.com/achieve-software/achieve-software/main/img/r8steve.gif)
+## Project-link
+https://spectacular-crepe-011d00.netlify.app/
+### At the end of the project, following topics are to be covered;
+-React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

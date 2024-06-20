@@ -7,7 +7,7 @@ import "./Main.css";const Main = (props) => {
         <div className="desc">
           <p>{desc}</p>
         </div>
-        <button className="btn">More Detail</button>
+        <button className="btn"> Detail</button>
       </div>
     </div>
   );

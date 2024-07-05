@@ -15,7 +15,7 @@ footer {
   @media (min-width: 2316px) {
     footer {
       position: fixed;
-      bottom: 10px;
+      bottom: 0px;
     }
   }
   
